@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
   }
   
   const sadCat = [
-    "https://media1.tenor.com/images/9413ffc5a11722a3cc456a88810750bd/tenor.gif?itemid=14193216",
+    "https://media1.tenor.com/m/LHAGJZLRbi0AAAAd/but-why-facepalm.gif",
     "https://emoji.gg/assets/emoji/5228_cat_cri.gif",
     "https://media1.tenor.com/images/a0554662ae7c3c60c0a7fdadac74ef18/tenor.gif?itemid=13931206",
     "https://media3.giphy.com/media/qpCvOBBmBkble/giphy.gif",
@@ -50,13 +50,13 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
   
   const blackmail = [
-    "Please",
-    "I'm begging you",
-    "I'm crying",
-    "I'm sad",
-    "HUHUHUHU",
+    "Please ma shosho",
+    "im gonna die",
+    "u have no choice ",
+    "ur ALL MINEE okay?!",
+    "wont accept this..",
     "Please Say Yes",
-    "I'm gonna cry",
+    "Im gonna cry",
   ];
   
   function normal() {
