@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var absImg = document.getElementById("absImg");
     absImg.style.display = "flex";
     var mainImg = document.getElementById("mainImg");
-    mainImg.src = "https://media1.tenor.com/m/5w4p_zZmuN0AAAAd/batman-dancing.gif;
+    mainImg.src = "https://media1.tenor.com/m/5w4p_zZmuN0AAAAd/batman-dancing.gif";
   
     images.forEach(function (image) {
       image.src = "https://github.com/NikhilMarko03/resources/blob/main/heart.gif?raw=true";
@@ -42,11 +42,11 @@ document.addEventListener("DOMContentLoaded", function () {
   
   const sadCat = [
     "https://media1.tenor.com/m/LHAGJZLRbi0AAAAd/but-why-facepalm.gif,
-    "https://emoji.gg/assets/emoji/5228_cat_cri.gif",
-    "https://media1.tenor.com/m/xr8MVc_I49YAAAAd/frowning-monkey.gif",
-    "https://media1.tenor.com/m/72jTKgX24qsAAAAd/batman-lonely.gif",
-    "https://c.tenor.com/fpIAhF2jIY0AAAAC/cat-crying.gif",
-    "https://media1.tenor.com/m/nrxWaJCgDGcAAAAd/monkey-tongue-monkey-lala.gif",
+    "https://emoji.gg/assets/emoji/5228_cat_cri.gif,
+    "https://media1.tenor.com/m/xr8MVc_I49YAAAAd/frowning-monkey.gif,
+    "https://media1.tenor.com/m/72jTKgX24qsAAAAd/batman-lonely.gif,
+    "https://c.tenor.com/fpIAhF2jIY0AAAAC/cat-crying.gif,
+    "https://media1.tenor.com/m/nrxWaJCgDGcAAAAd/monkey-tongue-monkey-lala.gif,
   ];
   
   const blackmail = [
