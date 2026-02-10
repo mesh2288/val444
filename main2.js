@@ -50,13 +50,13 @@ document.addEventListener("DOMContentLoaded", function () {
   ];
   
   const blackmail = [
-    "Please",
-    "I'm begging you",
-    "I'm crying",
-    "I'm sad",
-    "HUHUHUHU",
+    "Please ma shosho",
+    "im gonna die",
+    "u have no choice ",
+    "ur ALL MINEE okay?!",
+    "wont accept..",
     "Please Say Yes",
-    "I'm gonna cry",
+    "Im gonna cry",
   ];
   
   function normal() {
@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+        wedate.innerText = "We are each other's valentine last year this year and FOREVER. I LOVE YOU ma soulamte. ❤️😘";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
