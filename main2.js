@@ -43,8 +43,8 @@ document.addEventListener("DOMContentLoaded", function () {
   const sadCat = [
     "https://media1.tenor.com/m/LHAGJZLRbi0AAAAd/but-why-facepalm.gif",
     "https://emoji.gg/assets/emoji/5228_cat_cri.gif",
-    "https://media1.tenor.com/images/a0554662ae7c3c60c0a7fdadac74ef18/tenor.gif?itemid=13931206",
-    "https://media3.giphy.com/media/qpCvOBBmBkble/giphy.gif",
+    "https://media1.tenor.com/m/xr8MVc_I49YAAAAd/frowning-monkey.gif",
+    "https://media1.tenor.com/m/72jTKgX24qsAAAAd/batman-lonely.gif",
     "https://c.tenor.com/fpIAhF2jIY0AAAAC/cat-crying.gif",
     "https://c.tenor.com/BP70qe8X0J8AAAAC/crycat-crying-cat.gif",
   ];
@@ -102,13 +102,13 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "We are each other's valentine now. I love you cutie. ❤️😘";
+        wedate.innerText = "We are each other's valentine last year this year and FOREVER. I LOVE YOU ma soulamte. ❤️😘";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
 
     } else {
-        alert("Don't say yes right away, cutie. Play around a bit 😉😘");
+        alert("Don't say yes right away, ma angelic wifey. Play around a bit 😉😘");
     }
 }
 
