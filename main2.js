@@ -108,7 +108,7 @@ document.addEventListener("DOMContentLoaded", function () {
         window.open("index1.html", "_blank");
 
     } else {
-        alert("Don't say yes right away, cutie. Play around a bit 😉😘");
+        alert("Don't say yes right away, ma angelic wifey. Play around a bit 😉😘");
     }
 }
 
