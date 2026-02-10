@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", function () {
     var absImg = document.getElementById("absImg");
     absImg.style.display = "flex";
     var mainImg = document.getElementById("mainImg");
-    mainImg.src = "https://github.com/NikhilMarko03/resources/blob/main/happy3.gif?raw=true";
+    mainImg.src = "https://media1.tenor.com/m/5w4p_zZmuN0AAAAd/batman-dancing.gif;
   
     images.forEach(function (image) {
       image.src = "https://github.com/NikhilMarko03/resources/blob/main/heart.gif?raw=true";
@@ -41,12 +41,12 @@ document.addEventListener("DOMContentLoaded", function () {
   }
   
   const sadCat = [
-    "https://media1.tenor.com/images/9413ffc5a11722a3cc456a88810750bd/tenor.gif?itemid=14193216",
+    "https://media1.tenor.com/m/LHAGJZLRbi0AAAAd/but-why-facepalm.gif,
     "https://emoji.gg/assets/emoji/5228_cat_cri.gif",
-    "https://media1.tenor.com/images/a0554662ae7c3c60c0a7fdadac74ef18/tenor.gif?itemid=13931206",
-    "https://media3.giphy.com/media/qpCvOBBmBkble/giphy.gif",
+    "https://media1.tenor.com/m/xr8MVc_I49YAAAAd/frowning-monkey.gif",
+    "https://media1.tenor.com/m/72jTKgX24qsAAAAd/batman-lonely.gif",
     "https://c.tenor.com/fpIAhF2jIY0AAAAC/cat-crying.gif",
-    "https://c.tenor.com/BP70qe8X0J8AAAAC/crycat-crying-cat.gif",
+    "https://media1.tenor.com/m/nrxWaJCgDGcAAAAd/monkey-tongue-monkey-lala.gif",
   ];
   
   const blackmail = [
@@ -54,7 +54,7 @@ document.addEventListener("DOMContentLoaded", function () {
     "im gonna die",
     "u have no choice ",
     "ur ALL MINEE okay?!",
-    "wont accept..",
+    "wont accept this..",
     "Please Say Yes",
     "Im gonna cry",
   ];
